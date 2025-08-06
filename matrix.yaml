@@ -1,0 +1,9 @@
+name: matrix  # use this name in your config file
+primary: '#426644'  # buttons, fixed table columns
+secondary: '#50b45a'  # method selector, some minor labels
+accent: '#227358'  # header text, scrollbars, cursors, focus highlights
+background: '#0f191c' # background colors
+surface: '#383838'  # panels, etc
+error: '#E83151'  # error messages
+success: '#82d967'  # success messages
+warning: '#ffd700'  # warning messages
